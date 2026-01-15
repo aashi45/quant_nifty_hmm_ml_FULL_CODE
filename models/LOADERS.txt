@@ -1,0 +1,1 @@
+Use numpy.load on the .npz files. See README in notes.
