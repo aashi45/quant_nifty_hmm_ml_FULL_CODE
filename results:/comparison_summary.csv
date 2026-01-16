@@ -1,0 +1,4 @@
+strategy,total_return,sharpe,max_drawdown
+Baseline EMA,0.18,1.42,-0.11
+EMA + XGBoost,0.27,1.88,-0.08
+EMA + LSTM,0.24,1.75,-0.09

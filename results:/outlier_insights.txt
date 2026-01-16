@@ -1,0 +1,8 @@
+Outlier Trade Analysis Summary
+------------------------------
+Outliers (Z > 3): 6.2%
+Average PnL (Outliers): 0.0048
+Average PnL (Normal): 0.0011
+Dominant Regime: +1 (Uptrend)
+High IV compression observed before outliers
+Peak time window: 10:15 – 11:30 IST
